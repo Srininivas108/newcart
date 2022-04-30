@@ -6,6 +6,9 @@ export default function App() {
   <section className="pricing py-5">
   <div classNam="container">
     <div className="row">
+
+
+      
     
       <div className="col-lg-4">
         <div className="card mb-5 mb-lg-0">
